@@ -33,6 +33,8 @@ _tmain(int argc, char* argv[])        //主函数开始
 	 }
 
 	 printf("Host name:%s Host IP:%s\r\n",name, ptrip);
+
+	 printf("This project was added to github\r\n");
 	 
     while(ret!=0)                       //循环接收
     {
